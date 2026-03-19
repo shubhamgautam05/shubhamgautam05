@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there%2C%20I'm%20Shubham%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Science%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
-<h3 align="center"><i>Turning data into decisions</i></h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+ML+solutions+that+matter+%F0%9F%A4%96;Curiosity-driven+%2B+Result-oriented+%F0%9F%9A%80;Clean+code+%2B+Smart+models+%3D+Real+Impact+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 <br/>
 
