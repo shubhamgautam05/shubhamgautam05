@@ -1,15 +1,17 @@
-<h1 align="center">Hey there, I'm Shubham 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there%2C%20I'm%20Shubham%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Science%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+</p>
 
-<h3 align="center">ML Engineer | Data Science Enthusiast | Problem Solver</h3>
+<h3 align="center"><i>Turning data into decisions</i></h3>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/shubhamgautam05?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=shubhamgautam05&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=shubhamgautam05&label=Profile+Views&color=6e40c9&style=flat-square" alt="profile views" />
   </a>
   <a href="https://github.com/shubhamgautam05?tab=followers">
-    <img src="https://img.shields.io/github/followers/shubhamgautam05?label=Followers&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/shubhamgautam05?label=Followers&style=flat-square&color=6e40c9" alt="followers" />
   </a>
 </p>
 
