@@ -79,7 +79,7 @@ I'm a Machine Learning & Data Science enthusiast who loves turning complex data 
 | [🦠 Diseases Detection](https://github.com/shubhamgautam05/diseases_detection) | AI-powered disease classification system for early diagnosis automation | Python, Jupyter |
 | [📚 BookHive](https://github.com/shubhamgautam05/BookHive) | Elegant online bookstore with curated books, cart & animations (no dependencies) | HTML, CSS, JS |
 | [👔 Employee Turnover Analysis](https://github.com/shubhamgautam05/employee-turnover-analysis-ml) | Compares ML models on real HR dataset to predict employee churn | Python, Jupyter |
-| [🚦 Congestion Control ML](https://github.com/shubhamgautam05/congestion_control_ml) | Production-grade delivery optimization using Olist dataset | Python, ML |
+| [🎧 Spotify_cohord_predictor](https://github.com/shubhamgautam05/Spotify_cohord_predictor) |  Grouped Spotify songs into cohorts (clusters) for better recommendations | Python, Streamlit |
 
 ---
 
